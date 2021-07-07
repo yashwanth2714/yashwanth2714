@@ -19,7 +19,7 @@
 <a href="https://twitter.com/yashguntur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashguntur" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools 🛠️:</h3>
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -95,7 +95,7 @@
     </a>
 </p>
 
-<h3 align="left">Projects:</h3>
+<h3 align="left">Projects 💻:</h3>
 
 [Task Manager](https://yash-task-manager14.herokuapp.com/)
 
