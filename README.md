@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yashwanth Kumar</h1>
+<h1 align="center">Hi <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif"><img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30" style="max-width:100%;"></a>, I'm Yashwanth Kumar</h1>
 <h3 align="center">A passionate JavaScript 🔥 developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashwanth2714&label=Profile%20views&color=0e75b6&style=flat" alt="yashwanth2714" /> </p>
