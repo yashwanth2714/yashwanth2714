@@ -95,4 +95,14 @@
     </a>
 </p>
 
+<h3 align="left">Projects:</h3>
+
+[Task Manager](https://yash-task-manager14.herokuapp.com/)
+
+[Lazy Writers](https://lazy-writers.herokuapp.com/)
+
+[Quiz Land](https://yash-quizland.netlify.app/)
+
+[Marvel Heroes](https://yash-marvelheroes.netlify.app/)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashwanth2714&show_icons=true&locale=en" alt="yashwanth2714" /></p>
