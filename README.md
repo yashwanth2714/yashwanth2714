@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently working on **Node.js, TypeScript, Vue.js and AWS**
 
-- 🌱 I’m currently learning **JavaScript Internals and DSA**
+- ⏳ Exploring **JavaScript Internals and DSA**
+
+- 🚀 Always ready to collaborate for Dev Experiments
 
 - 💬 Ask me about **JavaScript**
 
