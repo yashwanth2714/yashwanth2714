@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me **yashwanthkumarguntur5@gmail.com**
+- 📫 Reach me at **yashwanthkumarguntur5@gmail.com**
 
 <h2 align="left">🤝 Connect with me:</h2>
 <p align="left">
