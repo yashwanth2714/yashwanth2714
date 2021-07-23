@@ -111,9 +111,9 @@
     Quiz Land
 </a>
 <br>
-<a href="https://yash-marvelheroes.netlify.app/" target="_blank">
+<!--<a href="https://yash-marvelheroes.netlify.app/" target="_blank">
     Marvel Heroes
-</a>
-<br><br>
+</a> -->
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashwanth2714&show_icons=true&locale=en" alt="yashwanth2714" /></p>
