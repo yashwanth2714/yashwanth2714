@@ -115,5 +115,6 @@
     Marvel Heroes
 </a>
 <br><br>
-
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashwanth2714&show_icons=true&locale=en" alt="yashwanth2714" /></p>
+-->
