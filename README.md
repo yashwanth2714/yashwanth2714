@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Node.js, TypeScript, Vue.js and AWS**
 
-- ⏳ Exploring **JavaScript Internals and React**
+- ⏳ Learning React**
 
 - 🚀 Always ready to collaborate for Dev Experiments
 
