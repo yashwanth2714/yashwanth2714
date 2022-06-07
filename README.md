@@ -97,6 +97,9 @@
     </a>
 </p>
 
+|  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashwanth2714&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>  |  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashwanth2714&layout=compact&langs_count=8&theme=algolia"/>  |
+|---|---|
+
 <h2 align="left">💻 Projects:</h2>
 
 <a href="https://yash-task-manager14.herokuapp.com/" target="_blank">
